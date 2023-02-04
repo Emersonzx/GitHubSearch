@@ -1,5 +1,6 @@
 {
   "name": "githubsearch",
+  "homepage": "https://emersonzx.github.io/GithubSearch/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
